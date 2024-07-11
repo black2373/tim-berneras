@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding-top: 50px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+img{
+    border-radius: 50%;
+}
+#o{
+background:linear-gradient(blue,green);
+}
+.r{
+    height: 6px;
+    background-color: white;
+    width: 70px;
+    margin: 2px auto;
+}
+#i{
+    font-size: 50px;
+    font-family: cursive;
+    font-family: "Iceland", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h2{
+    font-size: 30px;
+    font-weight: 300;
+    font-family: monospace;
+}
+#bio{
+    font-family: cursive;
+    padding: 50px;
+}
+.menu{
+    background-color: white;
+    list-style: none;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    z-index: 10;
+    cursor: pointer;
+}
+.link{
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9pX;
+    font-size: 20px;
+
+}
+.link:hover {
+    font-size: 25px;
+}
